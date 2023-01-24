@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="Title_SignIn">¿ Ya tienes una \n cuenta ?</string>
+    <string name="Delete_Note">¿Eliminar \'%1$s\'?</string>
+    <string name="Delete_Note_confirmation">¿Estas seguro de que quieres eliminar \'%1$s\'?</string>
+</resources>
