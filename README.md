@@ -21,7 +21,7 @@ Features:
 
 Features:
 
-* Event, Task and Reminder create, update, and delete.
+* Create, update, and delete Task.
 
 ----------------------------------------------------------- [Demo] ------------------------------------------------------------
 
